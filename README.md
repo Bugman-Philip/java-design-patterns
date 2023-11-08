@@ -1,2 +1,2 @@
 # java-design-patterns
-design patterns use java
+design patterns in java
